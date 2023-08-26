@@ -1,0 +1,136 @@
+{
+    "regions": [
+        {
+            "id": "53",
+            "name":"olot",
+            "region": "buxoro",
+            "population": "101 300",
+            "cetral":"olot",
+            "dencity":"31/",
+            "since":"1926 ",
+            "area": "3 230",
+            "img": "./images/region/buxoro_olot.png",
+            "info": "Tuman 1 shahar (Olot), 8 shahar tipidagi aholi punkti ( Ganchi Chandir , Kesakli , Qirtoy , Sola qorovul , Jayxunobod , Oʻzbekiston, Chovdur , Boʻribek Chandir ) va 10 ta qishloq fuqarolar yigʻinidan iborat."
+        },
+        {
+            "id": "54",
+            "name": "buxoro",
+            "region": "buxoro",
+            "population": "172 200",
+            "cetral":"g'alaosiyo",
+            "dencity":"130/",
+            "since":"1926",
+            "area": "1 320",
+            "img": "./images/region/buxoro_buxoro.png",
+            "info": "Tuman 1 shahar (Galaosiyo), 6 shahar tipidagi posyolka (Dexcha, Podshoyi, Rabotak, Oʻrta Novmetan, Xumini bolo, Arabxona) va 14 qishloq fuqarolar yigʻinidan iborat"
+        },
+        {
+            "id": "55",
+            "name":"g'ijduvon",
+            "region": "buxoro",
+            "population": "311 800",
+            "cetral":"g'ijduvon",
+            "dencity":"81/",
+            "since":"1926 ",
+            "area": "3 840",
+            "img": "./images/region/buxoro_gijduvon.png",
+            "info": "Tuman 1 shahar (Gʻijduvon), 13 shahar tipidagi aholi punktlaridan ( Obodi , Beshtuvo , Gʻajdumak , Jovgari , Koʻlijabbor , Mazragan , Yuqori Rostgoʻy , Oʻzanon , Xatcha , Chagʻdari , Dodarak , Namatgaron 1 tumanlari ) va tumanlardan iborat."
+        },
+        {
+            "id": "56",
+            "name": "jondor",
+            "region": "buxoro",
+            "population": "179 300",
+            "cetral":"jondor",
+            "dencity":"35/",
+            "since":"1979 ",
+            "area": "5 170",
+            "img": "./images/region/buxoro_jondor.png",
+            "info": "Tuman 9 ta shahar tipidagi aholi punkti (Jondor, Paxlavon, Dalmun, Koʻliyon, Samonchuq, Tobagar, Ushot, Xazorman, Chorzona) va 13 qishloq fuqarolar yigʻini (Dalmun, Qaroli, Lolo, Romish, Zarafshon, Oxshix, Xumdonak, Xumini)dan iborat . bolo, Mustaqillik, Poʻloti, Samonchuq, Aleli, Mirzayon)"
+        },
+        {
+            "id": "57",
+            "name":"kogon",
+            "region": "buxoro",
+            "population": "81 100",
+            "cetral":"kogon",
+            "dencity":"160/",
+            "since":"1926 ",
+            "area": "500",
+            "img": "./images/region/buxoro_kogon.png",
+            "info": "Tuman ikki shahar tipidagi aholi punkti (Sarayonobod, Tutikunda) va 9 qishloq fuqarolar yigʻinidan iborat "
+        },
+        {
+            "id": "58",
+            "name": "qorako'l",
+            "region": "buxoro",
+            "population": "167 400",
+            "cetral":"qorako'l",
+            "dencity":"19/",
+            "since":"1979 ",
+            "area": "8 690",
+            "img": "./images/region/buxoro_qorakol.png",
+            "info": "Tuman 1 shahar (Qorakoʻl), 12 shahar tipidagi aholi punkti (Bandboshi, Dargʻabogʻi, Jigʻachi, Qorahoji, Quvvacha, Mirzaqalʼa, Sayyod, Solur, Chandirobod, Shoʻrabot, Yakka Aʼlam, Yangiqalʼa) va 16 qishloq fuqarolar yigʻinidan iborat."
+        },
+        {
+            "id": "59",
+            "name":"qoravulbozor",
+            "region": "buxoro",
+            "population": "19 100",
+            "cetral":"qoravulbozor",
+            "dencity":"8,7/",
+            "since":"1926 ",
+            "area": "1 200",
+            "img": "./images/region/buxoro_qorovulbozor.png",
+            "info": "Tuman 1 shahar (Qorovulbozor) va 4 qishloq fuqarolar yigʻinidan (Navbahor, Boʻston, Buzachi, Jarqoq) iborat. "
+        },
+        {
+            "id": "60",
+            "name": "peshku",
+            "region": "buxoro",
+            "population": "179 300",
+            "cetral":"yangibozor",
+            "dencity":"15/",
+            "since":"1979 ",
+            "area": "8 720",
+            "img": "./images/region/buxoro_peshku.png",
+            "info": "Tuman 4 ta shahar tipidagi aholi punkti (Yangibozor, Peshku, Shavgon, Mahallai-Mirishkor) va 10 ta qishloq fuqarolar yigʻinidan iborat. "
+        },
+        {
+            "id": "61",
+            "name":"romitan",
+            "region": "buxoro",
+            "population": "146 300",
+            "cetral":"romitan",
+            "dencity":"60/",
+            "since":"1926 ",
+            "area": "2 450",
+            "img": "./images/region/buxoro_romitan.png",
+            "info": "Tuman 2 shahar (Romitan, Gazli ), 3 shahar tipidagi posyolka (Qoqishtuvon, Xosa, Yuqori Gʻazberon) va 6 qishloq fuqarolar yigʻinidan iborat. "
+        },
+        {
+            "id": "62",
+            "name": "shofirkon",
+            "region": "buxoro",
+            "population": "181 700",
+            "cetral":"shofirkon",
+            "dencity":"49/",
+            "since":"1979 ",
+            "area": "3 720",
+            "img": "./images/region/buxoro_shofirkon.png",
+            "info": "Tuman tarkibiga 1 shahar (Shofirkon), 8 shahar tipidagi aholi punkti (Joʻyrabot, Iskogare, Quyi Chuqurak, Mirzoqul, Talisafed, Undare, Chandir, Gʻulomte) va 12 qishloq fuqarolar yigʻini (Vargonze, Denov, Joʻynav, Joʻyrabot, Doʻrmon, Savrak, Sulton Joʻra, Tezguzar, Mazlaxon chandir, Sh.Hamroyev nomli, Iskogare, Bogʻiafzal)"
+        },
+        {
+            "id": "63",
+            "name":"vobkent",
+            "region": "buxoro",
+            "population": "143 600",
+            "cetral":"vobkent",
+            "dencity":"500/",
+            "since":"1926 ",
+            "area": "290",
+            "img": "./images/region/buxoro_vobkent.png",
+            "info": "Tuman 1 shahar (Vobkent), 3 shahar tipidagi posyolka (Navbahor, Shirin, Kosari) va 11 qishloq fuqarolar yigʻinidan iborat"
+        }
+    ]
+}
